@@ -248,6 +248,14 @@ This avoids the need for additional React components when creating confirmations
 
 ## Screenshots
 
-### Confirmation Window
+### Approval Template
 
-[<img src="assets/confirmation.png" width="300">](assets/confirmation.png)
+[<img src="assets/approval_template.png" width="300">](assets/approval_template.png)
+
+### Success Approval
+
+[<img src="assets/success_approval.png" width="300">](assets/success_approval.png)
+
+### Success Approval Templates
+
+[<img src="assets/success_approval_templates.png" width="300">](assets/success_approval_templates.png)
